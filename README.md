@@ -1,5 +1,4 @@
 # <p align="center">E-Commerce Data Analysis Project</p>
-# <p align="center">![Pic](https://media.istockphoto.com/id/1471521270/photo/a-female-hand-and-a-shopping-cart-icon-concept-of-starting-a-sale-online-shopping-increasing.webp?b=1&s=170667a&w=0&k=20&c=dB5BJ5oydtFUX2QIV-3iEwzOl00RTDlQnWCdEewKG50=)</p>
 eCommerce data provides information collected from the eCommerce industry – online retail  sites – about products, pricing, sales performance, and customers. Companies with an online retail presence use the data to gain insights into customer behavior and improve their experience. Online businesses and eCommerce retailers leverage eCommerce data to understand how their business performs, carry out competitor analysis, and drive higher online sales.
 
 # Tools Used: SQL, SQL Server
